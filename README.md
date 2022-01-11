@@ -10,3 +10,9 @@ Sviluppare un motore di raccomandazione in grado di gestire le seguenti situazio
 d’acquisto per fare previsioni sempre più efficaci
 3. Nuove aziende e quindi nuovi prodotti, dare l’opportunità agli elementi del catalogo
 appena inseriti di poter compere con quelli che invece sono già presenti
+
+
+
+
+
+Nella directory 'help seller' vi è il codice utilizzato nel progetto 
