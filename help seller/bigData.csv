@@ -1,0 +1,17 @@
+id,testo,voto,data,idProdotto,idDistributore
+1,adoro il piccante,5,,9,1
+2,adoro il piccante,5,,8,1
+3,adoro il piccante,5,,10,1
+4,buona la cola,5,,1,2
+5,buona la cola,5,,2,2
+6,buona la cola,5,,3,2
+7,ottimo surgelato,5,,4,3
+8,ottimo surgelato,5,,5,3
+9,ottimo surgelato,5,,6,3
+10,anche a me piace il piccante,5,,9,4
+11,sono un patito della cola,5,,1,5
+12,molto comodi da cucinare ,5,,4,6
+13,pessimo sapore,1,,3,4
+14,troppo piccante,1,,10,5
+15,non male,4,,8,6
+16,preferisco altro,1,,1,6
