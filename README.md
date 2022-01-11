@@ -15,4 +15,4 @@ appena inseriti di poter compere con quelli che invece sono già presenti
 
 
 
-Nella directory 'help seller' vi è il codice utilizzato nel progetto 
+Nella directory 'help seller' vi è il codice as is utilizzato nel progetto 
